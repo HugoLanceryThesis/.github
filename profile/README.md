@@ -6,7 +6,7 @@
 Due to confidential terms, please request the repository access by mail lancery.hugo@outlook.com.
 
 If you have any questions about the scientific material or the actual structure 
-of this thesis repository/article please [feel free to open an issue](https://github.com/gchure/phd/issues) and I will
+of this thesis repository/article please feel free to open an issue in the dedicated repository and I will
 respond as soon as I can. 
 
 Each chapter of the thesis has a dedicated github discussion canal:
