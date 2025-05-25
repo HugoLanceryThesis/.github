@@ -3,7 +3,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Contact
-Due to confidentiality agreements, to access repositories, data and discussion request access to the repository by emailing lancery.hugo@outlook.com.
+Due to confidentiality agreements, to access repositories, data and discussions pls request access to the repository by emailing lancery.hugo@outlook.com.
 
 If you have any questions about the scientific material or the actual structure 
 of this thesis repository/article please feel free to open an issue in the dedicated repository and I will
