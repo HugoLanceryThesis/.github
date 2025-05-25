@@ -1,5 +1,9 @@
 <div align="center">
-  <img style="height:10vh;" src="https://drive.google.com/uc?export=view&id=1B3jG-W4rnDVjDmNvlNJ34BDXJo6tNpc1"/>
+  <img style="height:7vh;" src="https://drive.google.com/uc?export=view&id=1Y0yIThqojwLf4jm5qidcr8AVymTBk9cw"/>
+  <img style="height:7vh;" src="https://drive.google.com/uc?export=view&id=1IDuzTRdSUMBQIRk8fb9D9UAUGzoR3IvI"/>
+  <img style="height:7vh;" src="https://drive.google.com/uc?export=view&id=1Z5laKTtf2ugRkmO95Q4ICO92q1u4K-ls"/>
+  <img style="height:7vh;" src="https://drive.google.com/uc?export=view&id=1gPLUP-bjZPBbrrxofdoz85iFxaANp7tX"/>
+  <img style="height:7vh;" src="https://drive.google.com/uc?export=view&id=1k1ExxpS4aVDq_7edi3t7Je_7WyA_JY4C"/>
 </div>
 
 # `My phd workflow`
