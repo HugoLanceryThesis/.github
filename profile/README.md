@@ -1,6 +1,13 @@
 # `My phd workflow`
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<div align="center">
+  <img style="height:10vh;" src="https://drive.google.com/uc?export=view&id=1B3jG-W4rnDVjDmNvlNJ34BDXJo6tNpc1"/>
+</div>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+  <img alt="Creative Commons License" style="border-width:0; height:4vh" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Contact
 Due to confidentiality agreements, to access repositories, data and discussions pls request access to the repository by emailing lancery.hugo@outlook.com.
