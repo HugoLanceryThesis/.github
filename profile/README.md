@@ -63,3 +63,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
+## Credits
+
+organization picture (chroter’s Valley with meandering subrille, Mapping Camera Frame from Apollo 15LRO (A15-M-2611) NASA)
