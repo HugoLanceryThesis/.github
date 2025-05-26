@@ -21,8 +21,8 @@ of this thesis repository/article please feel free to open an issue in the dedic
 respond as soon as I can. 
 
 Each chapter of the thesis has a dedicated github discussion canal:
-- Chapter 1 : [Optimal photometric geometries](https://github.com/HugoLanceryThesis/Optimal_photometric_geometries/discussions)
-- Chapter 2 : [Roughness multifractal topography](https://github.com/HugoLanceryThesis/Roughness_multifractal_topography/discussions)
+- Chapter 1 : [Optimal photometric geometries](https://github.com/HugoLanceryThesis/Optimal_photometric_geometries/discussions) `private`
+- Chapter 2 : [Roughness multifractal topography](https://github.com/HugoLanceryThesis/Roughness_multifractal_topography/discussions) `private`
 
 ## About
 This repository contains all files used to generate my PhD thesis. This includes
@@ -30,7 +30,7 @@ all codes used to generate figures, all latex and markdown files used to
 actually write the thesis. 
 
 ## Repositories
-[Optimal photometric geometries](https://github.com/HugoLanceryThesis/Optimal_photometric_geometries)
+[Optimal photometric geometries](https://github.com/HugoLanceryThesis/Optimal_photometric_geometries) 
 
 [Roughness multifractal topography](https://github.com/HugoLanceryThesis/Roughness_multifractal_topography)
 
